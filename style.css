@@ -1,0 +1,12 @@
+.wrap{
+	font-family: Roboto;
+	text-align: center;
+}
+.tank{
+	margin:0 50px;
+	display: inline-block;
+}
+body{
+	/*background: #eee;*/
+	margin: 0;
+}
